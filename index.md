@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Leave Tracker System</title>
 
-    <link rel="icon" href="/images/site-logo.png" />
-    <link rel="stylesheet" href="/styles/style.css" />
+    <link rel="icon" href="site-logo.png" />
+    <link rel="stylesheet" href="style.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap"
       rel="stylesheet"
@@ -26,6 +26,6 @@
 
     <p class="update-message"></p>
 
-    <script src="/scripts/main.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>
