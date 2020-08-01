@@ -14,8 +14,8 @@ let siteLogo = document.querySelector('img');
 siteLogo.onclick = function () {
 
     let attributeSrc = siteLogo.getAttribute('src');
-    let attributeSrcValue = 'images/site-logo.png';
-    let attributeSrcNewValue = 'images/calendar-late.png';
+    let attributeSrcValue = 'site-logo.png';
+    let attributeSrcNewValue = 'calendar-late.png';
 
     if (attributeSrc === attributeSrcValue) {
         siteLogo.setAttribute('src', attributeSrcNewValue);
