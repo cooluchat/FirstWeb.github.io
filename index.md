@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -16,7 +16,7 @@
   <body>
     <h2>Leave Tracking System</h2>
     <hr />
-    <img src="images/site-logo.png" alt="site logo" />
+    <img src="site-logo.png" alt="site logo" />
     <p id="welcome-message">You're welcome to LeaveTracker and we're eager to serve you&colon;</p>
     <ul class="navigationCard">
       <li><a href="#">Live Dashboard</a></li>
